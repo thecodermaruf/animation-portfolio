@@ -1,5 +1,9 @@
 function Sun() {
-  return ( <div></div> );
+  return ( 
+    <> 
+    <div></div>
+    </>
+  );
 }
 
 export default Sun;
